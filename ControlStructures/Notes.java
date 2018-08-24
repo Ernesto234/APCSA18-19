@@ -12,7 +12,7 @@ public class Notes
             System.out.println("You got an A! What do you want? A cookie?"); 
         }
         else if (percentage >= 80 && percentage < 90){
-            System.out.println("B? B for Be better next time".);
+            System.out.println("B? B for Be better next time.");
         }
         else if (percentage >= 70){
             System.out.println("C. You're average.");
